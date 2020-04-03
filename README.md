@@ -1,7 +1,7 @@
 # IPP_zadanie1
 Zadanie 1 z przedmiotu 'Indywidualny Projekt Programistyczny'
 
-Treść zadania:
+# Treść zadania:
 
 Małe zadanie
 
